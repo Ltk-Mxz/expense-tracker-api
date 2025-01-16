@@ -144,14 +144,3 @@ If you'd like to contribute to this project, follow these steps:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, feel free to reach out:
-
-- **Email**: a96.paul96@gmail.com
-- **GitHub**: [Ltk-Mxz](https://github.com/Ltk-Mxz)
